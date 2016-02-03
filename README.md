@@ -1,1 +1,1 @@
-# GideProject
+# GuideProject
